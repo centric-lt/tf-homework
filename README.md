@@ -8,8 +8,9 @@ The task seems simple on the outside: using Terraform deploy 2 Tier infrastructu
 Requirement section below :rotating_light:
 
 ### General
-- Use Terraform
-- Use OCI (Oracle Cloud Infrastructure)
+* Use Terraform
+    * Use version 0.12.x or higher
+* Use OCI (Oracle Cloud Infrastructure)
 
 ### Infrastructure
 - Solution has to feature at minimum 2 Tiers: Web and Database
