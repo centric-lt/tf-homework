@@ -13,7 +13,7 @@ Requirement section below :rotating_light:
 
 ### Infrastructure
 - Solution has to feature at minimum 2 Tiers: Web and Database
-- Web tier has to havea minimum of 2 Virtual machines (OS does not matter much here)
+- Web tier has to have a minimum of 2 Virtual machines (OS does not matter much here)
 - Web Tier has to have a Load Balancer
 - Database Tier has to be accessible only from Web Tier
 - Database Tier should be a cloud managed (PaaS)
@@ -42,7 +42,7 @@ Requirement section below :rotating_light:
 
 - Compact reusable code using terraform modules
 - Remote state
-- Remote runner
+- Remote execution (Code is running on a hosted service)
 - 3 Tiers
 
 ## :rotating_light: Oracle Cloud Account :rotating_light:
