@@ -46,6 +46,10 @@ Requirement section below :rotating_light:
 - Remote execution (Code is running on a hosted service)
 - 3 Tiers
 
+## Submitting
+
+To review homework assignments we will need a link to your public Github repository. Please email them by responding to the homework email sender.
+
 ## :rotating_light: Oracle Cloud Account :rotating_light:
 
 Oracle Cloud has a free trial and I urge you to register and use it. Free trial grants you $250 credit to try out various resources. However for this homework always free resources are sufficient.
